@@ -1,6 +1,5 @@
-// package.json
 {
-  "name": "your name",
+  "name": "yourame",
   "description": "Your description",
   "version": "0.1.0",
   "devDependencies": {
