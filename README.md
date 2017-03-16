@@ -3,6 +3,14 @@ Grunt Dependency Version Check For Build Tasks
 
 This repository contains a working Grunt task together with example `package.json` designed for incorporation in UK Government projects that rely on the [govuk frontend toolkit](://github.com/alphagov/govuk_frontend_toolkit).
 
+Running the command `$ grunt checkVersion` will produce the following result if your dependency or dependencies are up to date
+
+![Success](./images/Success.png)
+
+And the following if you are out of date
+
+![Failure](./images/Failure.png)
+
 Installation
 -----------
 
